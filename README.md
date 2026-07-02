@@ -188,38 +188,11 @@ API Pariksha gives:
 
 ---
 
-# 📲 Follow Me On :-
-
-<p align="left">
-
-<a href="https://dev.to/reejalchoudhary" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
-</a>
-
-<a href="https://twitter.com/choudharyreejal" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-
-<a href="http://www.linkedin.com/in/reejal-choudhary-532386237" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/reejalhere" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-
-<a href="https://github.com/reejalchoudhary" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30" />
-</a>
-
-</p>
-
----
 
 # 📡 Contact Me :-
 
-- 📧 Email: reejalree@gmail.com
-- 📱 Mobile: 7018361108
+- 📧 Email: nihalsharma251717.com
+- 📱 Mobile: 8988732139
 
 ---
 

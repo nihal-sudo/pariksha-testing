@@ -15,7 +15,7 @@
 
 ---
 
-# 🌐 Live Preview :-[ 🚀 Start Testing APIs](https://api-pariksha.vercel.app)
+# 🌐 Live Preview :-[ 🚀 Start Testing APIs](https://pariksha-api.vercel.app/)
 
 ---
 

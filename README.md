@@ -191,7 +191,7 @@ API Pariksha gives:
 
 # 📡 Contact Me :-
 
-- 📧 Email: nihalsharma251717.com
+- 📧 Email: nihalsharma251717@gmail.com
 - 📱 Mobile: 8988732139
 
 ---
